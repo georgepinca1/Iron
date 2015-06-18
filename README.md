@@ -1,9 +1,4 @@
-Litecoin Core integration/staging tree
-=====================================
-
-https://litecoin.org
-
-What is Litecoin?
+What is Iron ?
 ----------------
 
 Iron is an experimental new digital currency that enables instant payments to
