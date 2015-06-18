@@ -1,0 +1,22 @@
+CMainParams
+CBaseMainParams
+RecommendedNumConfirmations
+CLIENT_VERSION_MAJOR
+MAX_MONEY
+GetBlockValue
+
+fRequireRPCPassword = true;
+        
+fMiningRequiresPeers = false;
+        
+fAllowMinDifficultyBlocks = false;
+        
+fDefaultConsistencyChecks = false;
+        
+fRequireStandard = false;
+        
+fMineBlocksOnDemand = true;
+        
+fSkipProofOfWorkCheck = true;
+        
+fTestnetToBeDeprecatedFieldRPC = false;

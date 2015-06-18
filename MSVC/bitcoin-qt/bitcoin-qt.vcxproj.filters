@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{335129b6-2d62-4da2-85f0-95a23ee8bec7}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{21d9dec9-3208-4d2e-9836-a7800659749b}</UniqueIdentifier>
+      <Extensions>h;moc;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\qt\addressbookpage.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\addresstablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\askpassphrasedialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\bitcoin.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\bitcoinaddressvalidator.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\bitcoinamountfield.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\bitcoingui.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\bitcoinstrings.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\bitcoinunits.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\clientmodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\coincontroldialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\coincontroltreewidget.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\csvmodelwriter.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\editaddressdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\guiutil.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\intro.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\networkstyle.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\notificator.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\openuridialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\optionsdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\optionsmodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\overviewpage.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\paymentrequestplus.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\paymentserver.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\peertablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\qvalidatedlineedit.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\qvaluecombobox.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\receivecoinsdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\receiverequestdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\recentrequeststablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\rpcconsole.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\sendcoinsdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\sendcoinsentry.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\signverifymessagedialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\splashscreen.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\trafficgraphwidget.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\transactiondesc.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\transactiondescdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\transactionfilterproxy.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\transactionrecord.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\transactiontablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\transactionview.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\utilitydialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\walletframe.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\walletmodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\walletmodeltransaction.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\walletview.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\winshutdownmonitor.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\qt\paymentrequest.pb.cc">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_addressbookpage.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_addresstablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_askpassphrasedialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_bitcoinaddressvalidator.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_bitcoinamountfield.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_bitcoingui.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_bitcoinunits.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_clientmodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_csvmodelwriter.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_editaddressdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_guiutil.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_notificator.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_optionsdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_optionsmodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_overviewpage.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_paymentserver.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qvalidatedlineedit.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qvaluecombobox.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_rpcconsole.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_sendcoinsdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_sendcoinsentry.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_signverifymessagedialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_splashscreen.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_transactiondesc.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_transactiondescdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_transactionfilterproxy.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_transactiontablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_transactionview.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_walletframe.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_walletmodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_walletview.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_intro.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_coincontroldialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_coincontroltreewidget.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_receivecoinsdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_recentrequeststablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_receiverequestdialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_trafficgraphwidget.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_utilitydialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_openuridialog.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\qrc_bitcoin.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_peertablemodel.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\init.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\miner.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\qrc_bitcoin_locale.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\src\qt\forms\addressbookpage.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\askpassphrasedialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\editaddressdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\optionsdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\overviewpage.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\rpcconsole.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\sendcoinsdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\sendcoinsentry.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\signverifymessagedialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\transactiondescdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\receivecoinsdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\coincontroldialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\receiverequestdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\helpmessagedialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\intro.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\forms\openuridialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\locale\bitcoin_en.ts" />
+    <CustomBuild Include="..\..\src\qt\locale\bitcoin_ru.ts" />
+    <CustomBuild Include="..\..\src\qt\bitcoin.qrc" />
+    <CustomBuild Include="build\bitcoin.moc">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="build\bitcoinamountfield.moc">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="build\overviewpage.moc">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="build\rpcconsole.moc">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="build\intro.moc">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\openuridialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\utilitydialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\trafficgraphwidget.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\recentrequeststablemodel.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\walletview.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\walletmodel.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\walletframe.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\transactionview.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\transactionfilterproxy.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\transactiondescdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\receivecoinsdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\coincontroldialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\coincontroltreewidget.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\receiverequestdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\intro.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\transactiondesc.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\splashscreen.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\sendcoinsentry.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\rpcconsole.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\qvaluecombobox.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\qvalidatedlineedit.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\paymentserver.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\overviewpage.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\optionsmodel.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\notificator.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\guiutil.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\csvmodelwriter.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\clientmodel.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\bitcoinunits.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\bitcoinamountfield.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\askpassphrasedialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\optionsdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\signverifymessagedialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\editaddressdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\bitcoinaddressvalidator.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\sendcoinsdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\transactiontablemodel.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\addresstablemodel.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\addressbookpage.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\bitcoingui.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\peertablemodel.h">
+      <Filter>Заголовочные файлы</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\src\qt\bitcoin_locale.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneratedFiles\ui_addressbookpage.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_askpassphrasedialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_editaddressdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_intro.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_openuridialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_optionsdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_overviewpage.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_rpcconsole.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_sendcoinsdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_sendcoinsentry.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_signverifymessagedialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_transactiondescdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_receivecoinsdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_coincontroldialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_receiverequestdialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_helpmessagedialog.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\qt\guiconstants.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

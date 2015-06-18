@@ -1,0 +1,24 @@
+./autogen.sh
+
+CPPFLAGS="-I/d/bit/deps/db-4.8.30.NC/build_unix \
+-I/d/bit/deps/openssl-1.0.1l/include \
+-I/d/bit/deps \
+-I/d/bit/deps/protobuf-2.6.1/src \
+-I/d/bit/deps/libpng-1.6.16 \
+-I/d/bit/deps/qrencode-3.4.4" \
+LDFLAGS="-L/d/bit/deps/db-4.8.30.NC/build_unix \
+-L/d/bit/deps/openssl-1.0.1l \
+-L/d/bit/deps/miniupnpc \
+-L/d/bit/deps/protobuf-2.6.1/src/.libs \
+-L/d/bit/deps/libpng-1.6.16/.libs \
+-L/d/bit/deps/qrencode-3.4.4/.libs \
+-L/d/bit/deps/gmp" \
+BOOST_ROOT=/d/bit/deps/boost_1_57_0 \
+./configure \
+--disable-upnp-default \
+--disable-tests \
+--with-qt-incdir=/d/bit/Qt/qtbase-opensource-src-5.3.2/include \
+--with-qt-libdir=/d/bit/Qt/qtbase-opensource-src-5.3.2/lib \
+--with-qt-plugindir=/d/bit/Qt/qtbase-opensource-src-5.3.2/plugins \
+--with-qt-bindir=/d/bit/Qt/qtbase-opensource-src-5.3.2/bin \
+--with-protoc-bindir=/d/bit/deps/protobuf-2.6.1/src

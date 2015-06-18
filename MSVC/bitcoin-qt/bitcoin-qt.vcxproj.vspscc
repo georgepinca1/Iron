@@ -1,0 +1,15 @@
+﻿""
+{
+"FILE_VERSION" = "9237"
+"ENLISTMENT_CHOICE" = "NEVER"
+"PROJECT_FILE_RELATIVE_PATH" = ""
+"NUMBER_OF_EXCLUDED_FILES" = "5"
+"EXCLUDED_FILE0" = "build\\bitcoin.moc"
+"EXCLUDED_FILE1" = "build\\rpcconsole.moc"
+"EXCLUDED_FILE2" = "build\\bitcoinamountfield.moc"
+"EXCLUDED_FILE3" = "build\\overviewpage.moc"
+"EXCLUDED_FILE4" = "build\\intro.moc"
+"ORIGINAL_PROJECT_FILE_PATH" = ""
+"NUMBER_OF_NESTED_PROJECTS" = "0"
+"SOURCE_CONTROL_SETTINGS_PROVIDER" = "PROJECT"
+}
