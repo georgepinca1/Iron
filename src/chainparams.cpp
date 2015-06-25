@@ -70,14 +70,14 @@ static const Checkpoints::CCheckpointData data = {
  */
 static Checkpoints::MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
-        ( 0, uint256("0xd4a61b59f7da9e7ca827b7e5c224306bfbc675eb764b54ce11387029c15d11e8"))
-        ( 1, uint256("0x70a9561fd7aaade4543f2e714625c6cc5fe7bf79bba7f570dfd55ab8fef2f8e8"))
-        ( 2, uint256("0xc1e3a7db8bf484680954ff709d87519310d58624acb55518011830b0982262a1"))
-        ( 3, uint256("0x9b1888d45da298c72adca16e99ea13fe34582de49e673ed5c2006d7a3d9a9613"))
+        ( 0, uint256("0xd01de9e53d905a0eec123d4c2e8e0e4f92642f769f284a1acc349f1ec675b804b"))
+        ( 1, uint256("0xd4a61b59f7da9e7ca827b7e5c224306bfbc675eb764b54ce11387029c15d11e8"))
+        ( 2, uint256("0x70a9561fd7aaade4543f2e714625c6cc5fe7bf79bba7f570dfd55ab8fef2f8e8"))
+        ( 3, uint256("0xc1e3a7db8bf484680954ff709d87519310d58624acb55518011830b0982262a1"))
         ;
 static const Checkpoints::CCheckpointData data = {
         &mapCheckpoints,
-        1434618724, // * UNIX timestamp of last checkpoint block
+        1434607923, // * UNIX timestamp of last checkpoint block
         4,   // * total number of transactions between genesis and last checkpoint
                     //   (the tx=... number in the SetBestChain debug.log lines)
         100.0     // * estimated number of transactions per day after checkpoint
@@ -160,8 +160,8 @@ public:
         assert(hashGenesisBlock == uint256("01de9e53d905a0eec123d4c2e8e0e4f92642f769f284a1acc349f1ec675b804b"));
         assert(genesis.hashMerkleRoot == uint256("6897727a59b68b549b3ca4467771d3d5dd699c1bb0d503a4aa39f02bf7d53d1e"));
 
-        vSeeds.push_back(CDNSSeedData("bitcarbon.io", "dnsseed.bitcarbon.io"));
         vSeeds.push_back(CDNSSeedData("bitcarbon.io", "fin.bitcarbon.io"));
+        vSeeds.push_back(CDNSSeedData("bitcarbon.io", "dnsseed.bitcarbon.io"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(98);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(5);
